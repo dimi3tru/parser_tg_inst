@@ -3,6 +3,9 @@
 *.xlsm
 *.json
 *.pickle
+*.log
+*.tsv
+*.session
 *.pkl
 *.pth
 *.pt
